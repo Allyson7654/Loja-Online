@@ -1,3 +1,3 @@
 # Loja-online
 Projeto de estudo para aprender Git.
-Modificacao feita na branch de documentacao
+Modificacao feita diretamente na main para forcar conflito.
